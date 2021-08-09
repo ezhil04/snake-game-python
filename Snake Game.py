@@ -1,5 +1,6 @@
 """
-Snake Eater
+Snake game
+
 Made with PyGame
 """
 
