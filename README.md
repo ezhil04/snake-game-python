@@ -12,3 +12,6 @@ REQUIREMENTS:
 step 1:
 #install vs code new version
 #then open terminal > type:pip3 install pygame
+
+step 2:
+copy code from this url :https://github.com/bharathkumar23298/snake-game.git
