@@ -1,3 +1,4 @@
+![Screenshot (34)](https://user-images.githubusercontent.com/67777476/128670180-adda6f8b-350a-4033-90e4-6fcaed78647d.png)
 # snake-game
 
 Hi this is Bharath, Im going to guide  how to develope a snake game
