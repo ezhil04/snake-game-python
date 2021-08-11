@@ -18,4 +18,4 @@ step 1:
 #then open terminal > type:pip3 install pygame
 
 step 2:
-copy code from this url :
+copy code from this url : https://github.com/ezhil04/snake-game-python.git
